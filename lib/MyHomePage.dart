@@ -133,7 +133,7 @@ class _PortfolioHomeState extends State<PortfolioHome> {
                   borderRadius: BorderRadius.circular(10),
                   child: Image.network(
                     'https://th.bing.com/th/id/OIP.lx2sf8RzSVDxy8bDVskJRgHaLI?w=377&h=567&rs=1&pid=ImgDetMain',
-                    height: 736,
+                    height: 735,
                     width: 600,
                     fit: BoxFit.fill,
                   ),
