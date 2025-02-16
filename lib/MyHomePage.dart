@@ -169,7 +169,7 @@ class _PortfolioHomeState extends State<PortfolioHome> {
           SizedBox(height: 60),
           // About Me Description
           Text(
-            "Motivated and results-driven professional with a Diploma in Computer Engineering. Passionate about programming and software development, with expertise in Flutter, HTML, and CSS. Experienced in creating innovative and efficient software solutions.",
+            "Motivated and results-driven professional with a Diploma in Computer Engineering. Passionate about programming and software development, with expertise in Flutter, HTML, and CSS. Experienced in creating innovative and efficient software solutions. ",
             style: TextStyle(
               fontSize: 16,
               color: Colors.white70,
