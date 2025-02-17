@@ -343,13 +343,13 @@ class _PortfolioHomeState extends State<PortfolioHome> {
             children: [
               Icon(Icons.phone, color: Colors.blue),
               SizedBox(width: 10),
-              Text("Phone: +123 456 7890", style: TextStyle(fontSize: 16)),
+              Text("Phone: +91 90619 93503", style: TextStyle(fontSize: 16)),
             ],
           ),
           SizedBox(height: 30),
           ElevatedButton(
             onPressed: () {},
-            child: Text("Get In Touch",style: TextStyle(color: Colors.white),),
+            child: Text("Get In Touch ",style: TextStyle(color: Colors.white),),
           ),
         ],
       ),
